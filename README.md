@@ -25,6 +25,9 @@ by [Sandy Ryza](https://github.com/sryza), [Uri Laserson](https://github.com/las
 - Chapter 11: https://github.com/thunder-project/thunder/tree/v0.4.1/python/thunder/utils/data/fish/tif-stack
 
 [![Build Status](https://travis-ci.org/sryza/aas.png?branch=master)](https://travis-ci.org/sryza/aas)
+#   
+#读书笔记
+- [ch04 决策树，随机森林——预测森林植被类型](https://github.com/xiaoyesoso/advanced-analytics-with-spark#ch04-%E5%86%B3%E7%AD%96%E6%A0%91%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E9%A2%84%E6%B5%8B%E6%A3%AE%E6%9E%97%E6%A4%8D%E8%A2%AB%E7%B1%BB%E5%9E%8B)
 
 #ch04 决策树，随机森林——预测森林植被类型
 ##数据集处理
